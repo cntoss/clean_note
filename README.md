@@ -1,6 +1,6 @@
 # clean_note
 
-A new Flutter project.
+A clean architecture notes app with Flutter.
 
 ## Setup Instructions:
 
